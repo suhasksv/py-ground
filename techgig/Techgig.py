@@ -32,6 +32,6 @@ while c <= n:
     c += 1
     print ("" ,nex, end="")
 """
-ab = int(input(""))
-bc = int(input(""))
+
+
 
