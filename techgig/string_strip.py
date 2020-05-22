@@ -1,4 +1,4 @@
 def main():
     st = input("")
-    print(st.strip())
+    print(st.strip(), end="")
 main()
