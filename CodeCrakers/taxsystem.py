@@ -23,4 +23,4 @@ if salary > 2000000:
     tax5 = e * 30
     amt += e - tax5
 totaltax = tax1 + tax2 + tax3 + tax4 + tax5
-print("Your Salary is:", salary, ";Tax that you should pay:", totaltax, "You get:", amt)
+print("Your Salary is:", salary, ";Tax that you should pay:", totaltax,  "You get:", amt)
