@@ -5,7 +5,7 @@ noun = ("apple","sony","mediaTek","snapdragon","beetal","bee","sg","ss")
 
 print ("Welcome to password picker")
 while True:
-    for num in range(10):
+    for num in range(1):
         adjs = random.choice(adj)
         nouns = random.choice(noun)
         num = random.randrange(0, 100)
