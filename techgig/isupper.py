@@ -1,6 +1,6 @@
 def main():
-    s = input("")
-    if (s.isupper()):
+    s = input("").strip()
+    if s.isupper():
         print("True", end="")
     else:
         print("False", end="")
