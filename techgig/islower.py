@@ -1,6 +1,6 @@
 def main():
     s = input("")
-    if s.isupper():
+    if s.islower():
         print("True", end="")
     else:
         print("False", end="")
