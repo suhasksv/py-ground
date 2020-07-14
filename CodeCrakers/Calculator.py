@@ -28,21 +28,53 @@ for i in range(0, num-1):
         s = s ** f        
 print(s)
 """
-def add(a,b):
-    return (a+b)
-def sub(a,b):
-    return (a-b)
-def mul(a,b):
-    return (a*b)
-def div(a,b):
-    return (a/b)
-def power(a,b):
-    return (a**b)
+
+
+def add(a, b):
+    return a + b
+
+
+def sub(a, b):
+    return a - b
+
+
+def mul(a, b):
+    return a * b
+
+
+def div(a, b):
+    return a / b
+
+
+def power(a, b):
+    return a ** b
+
 
 num1 = int(input("Enter the first number:"))
 op1 = input("Enter the first operation:")
 num2 = int(input("Enter the second number:"))
 
-def operation():
+
+def ope():
     if "+" or "add" or "addition" or "sum":
         return add(num1, num2)
+
+
+def ope2():
+    if "-" or "subtract":
+        return sub(num1, num2)
+
+
+def ope3():
+    if "x" or "multiply" or "*":
+        return mul(num1, num2)
+
+
+def ope4():
+    if "divide" or "/":
+        return div(num1, num2)
+
+
+def ope5():
+    if "power" or "**" or "^":
+        return power(num1, num2)

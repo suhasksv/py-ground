@@ -9,4 +9,4 @@ while True:
     print("  ", y, "     ", x, "   ", s)
     i = input("do you want to exit? (y/n)")
     if i == "y":
-        breakpoint
+        break
