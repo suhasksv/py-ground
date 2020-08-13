@@ -3,7 +3,7 @@ import random
 words = ("random", "choice", "source", "pizzah", "fpizza", "python")
 secret_word = random.choice(words)
 clue = list("??????")
-heart_symbol = u"\u2764"
+hs = u"\u2764"
 guessed_word_correctly = False
 
 
@@ -15,8 +15,8 @@ def update_clue(guessed_letter, secret_word, clue):
         index = index + 1
 
 
-diff = input("Choose difficulty (type 1/2/3):\n 1 easy \n 2 normal \n 3 hard\n")
-diff = int(diff)
+diffs = input("Choose difficulty (type 1/2/3):\n 1. easy \n 2. normal \n 3. hard\n")
+diff = int(diffs)
 if diff == 1:
     lives = 12
 elif diff == 2:
@@ -26,7 +26,7 @@ else:
 
 while lives > 0:
     print(clue)
-    print("lives left: " + heart_symbol * lives)
+    print("lives left: " + hs * lives, "  ", lives)
     guess = input("Guess a letter or the whole word: ")
 
     if guess == secret_word:
@@ -42,4 +42,4 @@ while lives > 0:
     if guessed_word_correctly:
         print("You won! the word was " + secret_word)
     else:
-        print("You lost!")
+        print("You lost!", "", "Total number of lives left:", lives)
