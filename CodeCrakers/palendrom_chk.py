@@ -1,3 +1,10 @@
+word = input("Enter the word:").split(" ")
+
+if word == word.reverse():
+    print(word, "is a palendrom")
+else:
+    print(word, "is not a palendrom")
+"""
 word = input("Enter the word to check is it a palendrom or not:")
 y = x = i = 0
 x = len(word)
@@ -12,3 +19,4 @@ if i == y:
     print(word, "is a palendrom")
 else:
     print(word, "is not a palendrom")
+"""
