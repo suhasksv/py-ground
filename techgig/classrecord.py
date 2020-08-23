@@ -5,9 +5,9 @@ import array as arr
 def summ(i):
     return 10 + int(i)
 
-"""
+
 def directCalc():
-    subs = 5
+    subjects = 5
     sums = [0, 0, 0, 0, 0]
 
     n = int(input("enter number students:"))
@@ -15,14 +15,11 @@ def directCalc():
     for i in range(0, n):
         s = input("name of student physics chemistry maths english telugu:").split(' ')
         s = s[1:]
-        for j in range(0, subs):
+        for j in range(0, subjects):
             sums[j] += int(s[j])
 
-    for j in range(0, subs):
-        print(format(sums[j] / n, '.2f'))
-
-"""
-
+    for j in range(0, subjects):
+        print(format(sums[j] / n, '.2f'), end=" ")
 
 def main():
     n = int(input("enter number students:"))
@@ -115,6 +112,6 @@ def main():
 #     print(c,end='')
 
 
-# directCalc()
+directCalc()
 
-main()
+# main()
