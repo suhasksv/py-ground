@@ -21,6 +21,7 @@ def directCalc():
     for j in range(0, subjects):
         print(format(sums[j] / n, '.2f'), end=" ")
 
+
 def main():
     n = int(input("enter number students:"))
 

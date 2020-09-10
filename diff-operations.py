@@ -1,6 +1,11 @@
 import time
 
-print("Hi, Welcome to many ")
+print("Hi, Welcome to Quantum Tricks")
+time.sleep(1.0)
+print("This a different operations calculator using same numbers")
+time.sleep(2.0)
+print("Lets start calculating")
+time.sleep(1.0)
 
 num1 = int(input("Enter an integer:"))
 num2 = int(input("Enter an integer:"))
