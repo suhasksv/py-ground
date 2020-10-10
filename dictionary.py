@@ -38,3 +38,5 @@ for i in fruits:
 print("    ")
 if "Watermelon" in fruits:
     print("It is There")
+
+qw = {"apple", "banana", "cherries", }
