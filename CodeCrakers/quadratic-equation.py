@@ -14,19 +14,19 @@ b = (input("Enter the value of 'b':"))
 c = (input("Enter the value of 'c':"))
 
 if a.isnumeric():
-    q += 1
+    q += 2
 else:
-    print("Invalid input of a {0}", format(a))
+    print("Invalid input of a {0}".format(a))
 
-if b.isnumeric():
-    q += 1
-else:
-    print("Invalid input of a {0}", format(b))
+# if b.isnumeric():
+#     q += 1
+# else:
+#     print("Invalid input of a {0}".format(b))
 
 if c.isnumeric():
     q += 1
 else:
-    print("Invalid input of a {0}", format(c))
+    print("Invalid input of a {0}".format(c))
 
 while q == 3 and g == 0:
     a = int(a)

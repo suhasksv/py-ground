@@ -1,5 +1,6 @@
 word = input("Enter the word:").split(" ")
 
+for i, j in range()
 if word == word.reverse():
     print(word, "is a palendrom")
 else:
