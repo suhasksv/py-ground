@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7aeacb0d-79f8-49a8-995b-202ce041b27e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/CodeCrakers/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YouTube.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/he2.py" beforeDir="false" afterPath="$PROJECT_DIR$/he2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellow.py" beforeDir="false" afterPath="$PROJECT_DIR$/hellow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/hoo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passpic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1igodtZ0yy4dWetWEOOFguCmH7L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py-ground " />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeCrakers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeCrakers/calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.calculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aeacb0d-79f8-49a8-995b-202ce041b27e" name="Default Changelist" comment="" />
+      <created>1602338686748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602338686748</updated>
+      <workItem from="1602338688172" duration="929000" />
+      <workItem from="1602384472807" duration="91000" />
+      <workItem from="1602385150229" duration="284000" />
+      <workItem from="1602399620419" duration="119000" />
+      <workItem from="1602468043313" duration="1197000" />
+      <workItem from="1602639537836" duration="1428000" />
+      <workItem from="1602757792935" duration="1000" />
+      <workItem from="1602841351349" duration="232000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602339021945">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1602339021945" />
+    <state width="1398" height="280" key="GridCell.Tab.0.bottom" timestamp="1602385303700">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="280" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1602385303700" />
+    <state width="1398" height="280" key="GridCell.Tab.0.center" timestamp="1602385303699">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="280" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1602385303699" />
+    <state width="1398" height="280" key="GridCell.Tab.0.left" timestamp="1602385303699">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="280" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1602385303699" />
+    <state width="1398" height="280" key="GridCell.Tab.0.right" timestamp="1602385303700">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="280" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1602385303700" />
+    <state width="1398" height="280" key="GridCell.Tab.1.bottom" timestamp="1602385303701">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="280" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1602385303701" />
+    <state width="1398" height="280" key="GridCell.Tab.1.center" timestamp="1602385303701">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="280" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1602385303701" />
+    <state width="1398" height="280" key="GridCell.Tab.1.left" timestamp="1602385303700">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="280" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1602385303700" />
+    <state width="1398" height="280" key="GridCell.Tab.1.right" timestamp="1602385303701">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="280" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1602385303701" />
+    <state x="571" y="376" key="VCS.ChangelistChooser" timestamp="1602339639930">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="571" y="376" key="VCS.ChangelistChooser/0.23.1440.877@0.23.1440.877" timestamp="1602339639930" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/py_ground$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1602385303655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCrakers" />
+  </component>
+</project>
