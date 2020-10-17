@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7aeacb0d-79f8-49a8-995b-202ce041b27e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/CodeCrakers/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/YouTube.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hangman.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/he2.py" beforeDir="false" afterPath="$PROJECT_DIR$/he2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hellow.py" beforeDir="false" afterPath="$PROJECT_DIR$/hellow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/hoo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/passpic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeCrakers/palindrome_chk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/py-ground .iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/py-ground.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeCrakers/pal_chk2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeCrakers/palendrom_chk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/password-picker.py" beforeDir="false" afterPath="$PROJECT_DIR$/password-picker.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +34,14 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.palindrome_chk">
     <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py-ground " />
+      <module name="py-ground" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -59,13 +62,51 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="palindrome_chk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py-ground" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeCrakers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeCrakers/palindrome_chk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.palindrome_chk" />
         <item itemvalue="Python.calculator" />
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7aeacb0d-79f8-49a8-995b-202ce041b27e" name="Default Changelist" comment="" />
@@ -81,6 +122,12 @@
       <workItem from="1602639537836" duration="1428000" />
       <workItem from="1602757792935" duration="1000" />
       <workItem from="1602841351349" duration="232000" />
+      <workItem from="1602856592854" duration="4237000" />
+      <workItem from="1602865990371" duration="988000" />
+      <workItem from="1602867426388" duration="162000" />
+      <workItem from="1602867779258" duration="303000" />
+      <workItem from="1602897689731" duration="47000" />
+      <workItem from="1602897753933" duration="469000" />
     </task>
     <servers />
   </component>
@@ -104,44 +151,53 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1602339021945" />
-    <state width="1398" height="280" key="GridCell.Tab.0.bottom" timestamp="1602385303700">
+    <state width="1398" height="280" key="GridCell.Tab.0.bottom" timestamp="1602862914030">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1602385303700" />
-    <state width="1398" height="280" key="GridCell.Tab.0.center" timestamp="1602385303699">
+    <state width="1398" height="280" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1602862914030" />
+    <state width="1398" height="280" key="GridCell.Tab.0.center" timestamp="1602862914029">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1602385303699" />
-    <state width="1398" height="280" key="GridCell.Tab.0.left" timestamp="1602385303699">
+    <state width="1398" height="280" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1602862914029" />
+    <state width="1398" height="280" key="GridCell.Tab.0.left" timestamp="1602862914029">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1602385303699" />
-    <state width="1398" height="280" key="GridCell.Tab.0.right" timestamp="1602385303700">
+    <state width="1398" height="280" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1602862914029" />
+    <state width="1398" height="280" key="GridCell.Tab.0.right" timestamp="1602862914029">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1602385303700" />
-    <state width="1398" height="280" key="GridCell.Tab.1.bottom" timestamp="1602385303701">
+    <state width="1398" height="280" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1602862914029" />
+    <state width="1398" height="280" key="GridCell.Tab.1.bottom" timestamp="1602862914031">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1602385303701" />
-    <state width="1398" height="280" key="GridCell.Tab.1.center" timestamp="1602385303701">
+    <state width="1398" height="280" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1602862914031" />
+    <state width="1398" height="280" key="GridCell.Tab.1.center" timestamp="1602862914030">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1602385303701" />
-    <state width="1398" height="280" key="GridCell.Tab.1.left" timestamp="1602385303700">
+    <state width="1398" height="280" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1602862914030" />
+    <state width="1398" height="280" key="GridCell.Tab.1.left" timestamp="1602862914030">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1602385303700" />
-    <state width="1398" height="280" key="GridCell.Tab.1.right" timestamp="1602385303701">
+    <state width="1398" height="280" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1602862914030" />
+    <state width="1398" height="280" key="GridCell.Tab.1.right" timestamp="1602862914030">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1602385303701" />
+    <state width="1398" height="280" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1602862914030" />
+    <state x="221" y="63" key="SettingsEditor" timestamp="1602867750765">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1602867750765" />
     <state x="571" y="376" key="VCS.ChangelistChooser" timestamp="1602339639930">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="571" y="376" key="VCS.ChangelistChooser/0.23.1440.877@0.23.1440.877" timestamp="1602339639930" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/py_ground$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1602385303655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCrakers" />
+    <state x="517" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602857996762">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="517" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1602857996762" />
+    <state x="450" y="376" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1602862899705">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="450" y="376" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.877@0.23.1440.877" timestamp="1602862899705" />
   </component>
 </project>

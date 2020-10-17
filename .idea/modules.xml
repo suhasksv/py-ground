@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/py-ground .iml" filepath="$PROJECT_DIR$/.idea/py-ground .iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/py-ground.iml" filepath="$PROJECT_DIR$/.idea/py-ground.iml" />
     </modules>
   </component>
 </project>
