@@ -1,7 +1,7 @@
 while True:
     a = int(input("Enter number of folders:"))
-    if a > 0 and a < 10:
-        i=a
+    if 0 < a < 10:
+        i = a
         while i>0:
             b = int(input("Enter number of files:"))
             c = input("Enter names of files:")

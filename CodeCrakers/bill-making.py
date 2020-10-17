@@ -6,5 +6,5 @@ for i in range(0, n):
 Quantity = n
 Price = s
 Order = "I need to pay ${1} for {0} items "
-print(Order.format(Quantity,Price))
+print(Order.format(Quantity, Price))
 
