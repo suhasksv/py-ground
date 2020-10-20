@@ -1,6 +1,6 @@
-the_board = {'1': ' ', '2': ' ', '3': ' ',
+the_board = {'7': ' ', '8': ' ', '9': ' ',
              '4': ' ', '5': ' ', '6': ' ',
-             '7': ' ', '8': ' ', '9': ' '}
+             '1': ' ', '2': ' ', '3': ' '}
 
 disp_board = {'1': '1', '2': '2', '3': '3',
               '4': '4', '5': '4', '6': '6',
@@ -16,11 +16,13 @@ fill_board = []
 # Print or display the Tic-Tac-Toe board
 def print_board(board):
     print(board["1"], "|", board["2"], "|", board["3"])
-    print("- + - + -")
+    print("-- + -- + --")
     print(board["4"], "|", board["5"], "|", board["6"])
-    print("- + - + -")
+    print("-- + -- + --")
     print(board["7"], "|", board["8"], "|", board["9"])
 
+print_board(disp_board)
+print("\n")
 
 # Start of the main game function
 def main_game():

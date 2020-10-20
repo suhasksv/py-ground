@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7aeacb0d-79f8-49a8-995b-202ce041b27e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CodeCrakers/palindrome_chk.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/py-ground .iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/py-ground.iml" afterDir="false" />
+    <list default="true" id="7aeacb0d-79f8-49a8-995b-202ce041b27e" name="Default Changelist" comment="Update">
+      <change afterPath="$PROJECT_DIR$/housie-game-no.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeCrakers/pal_chk2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeCrakers/palendrom_chk.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/password-picker.py" beforeDir="false" afterPath="$PROJECT_DIR$/password-picker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeCrakers/tic-tac-toe.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/tic-tac-toe.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,7 +42,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.palindrome_chk">
+  <component name="RunManager" selected="Python.housie-game-no">
     <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py-ground" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,6 +57,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeCrakers/calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="housie-game-no" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py-ground" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/housie-game-no.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,6 +111,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.housie-game-no" />
         <item itemvalue="Python.palindrome_chk" />
         <item itemvalue="Python.calculator" />
       </list>
@@ -127,8 +153,20 @@
       <workItem from="1602867426388" duration="162000" />
       <workItem from="1602867779258" duration="303000" />
       <workItem from="1602897689731" duration="47000" />
-      <workItem from="1602897753933" duration="469000" />
+      <workItem from="1602897753933" duration="850000" />
+      <workItem from="1602900820286" duration="1245000" />
+      <workItem from="1602948709624" duration="2637000" />
+      <workItem from="1603017300085" duration="686000" />
+      <workItem from="1603079551780" duration="610000" />
     </task>
+    <task id="LOCAL-00001" summary="Update">
+      <created>1602900593133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602900593133</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,58 +184,77 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602339021945">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1602339021945" />
-    <state width="1398" height="280" key="GridCell.Tab.0.bottom" timestamp="1602862914030">
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1603018418925">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1602862914030" />
-    <state width="1398" height="280" key="GridCell.Tab.0.center" timestamp="1602862914029">
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1603018418925" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1603018418924">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1602862914029" />
-    <state width="1398" height="280" key="GridCell.Tab.0.left" timestamp="1602862914029">
+    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1603018418924" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1603018418924">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1602862914029" />
-    <state width="1398" height="280" key="GridCell.Tab.0.right" timestamp="1602862914029">
+    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1603018418924" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1603018418925">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1602862914029" />
-    <state width="1398" height="280" key="GridCell.Tab.1.bottom" timestamp="1602862914031">
+    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1603018418925" />
+    <state width="1398" height="280" key="GridCell.Tab.1.bottom" timestamp="1603018418915">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1602862914031" />
-    <state width="1398" height="280" key="GridCell.Tab.1.center" timestamp="1602862914030">
+    <state width="1398" height="280" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1603018418915" />
+    <state width="1398" height="280" key="GridCell.Tab.1.center" timestamp="1603018418914">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1602862914030" />
-    <state width="1398" height="280" key="GridCell.Tab.1.left" timestamp="1602862914030">
+    <state width="1398" height="280" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1603018418914" />
+    <state width="1398" height="280" key="GridCell.Tab.1.left" timestamp="1603018418914">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1602862914030" />
-    <state width="1398" height="280" key="GridCell.Tab.1.right" timestamp="1602862914030">
+    <state width="1398" height="280" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1603018418914" />
+    <state width="1398" height="280" key="GridCell.Tab.1.right" timestamp="1603018418914">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1602862914030" />
-    <state x="221" y="63" key="SettingsEditor" timestamp="1602867750765">
+    <state width="1398" height="280" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1603018418914" />
+    <state x="308" y="208" width="824" height="514" key="IDE.errors.dialog" timestamp="1602903580497">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1602867750765" />
+    <state x="308" y="208" width="824" height="514" key="IDE.errors.dialog/0.23.1440.877@0.23.1440.877" timestamp="1602903580497" />
+    <state x="221" y="63" key="SettingsEditor" timestamp="1602901520519">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1602901520519" />
     <state x="571" y="376" key="VCS.ChangelistChooser" timestamp="1602339639930">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="571" y="376" key="VCS.ChangelistChooser/0.23.1440.877@0.23.1440.877" timestamp="1602339639930" />
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2" timestamp="1602900605799">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1602900605799" />
     <state x="517" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602857996762">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="517" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1602857996762" />
-    <state x="450" y="376" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1602862899705">
+    <state x="430" y="154" width="580" height="614" key="find.popup" timestamp="1602949310087">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="450" y="376" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.877@0.23.1440.877" timestamp="1602862899705" />
+    <state x="430" y="154" width="580" height="614" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1602949310087" />
+    <state x="450" y="376" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1603017416524">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="450" y="376" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.877@0.23.1440.877" timestamp="1603017416524" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/py_ground$housie_game_no.coverage" NAME="housie-game-no Coverage Results" MODIFIED="1603017579911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
