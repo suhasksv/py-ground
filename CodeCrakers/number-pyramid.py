@@ -1,4 +1,4 @@
-curr = 1
+num = 1
 try:
     row = int(input("Enter number of rows:"))
 except:
@@ -6,6 +6,6 @@ except:
     exit(1)
 for i in range(1, row+1):
     for j in range(0, i):
-        print(curr, end=" ")
-        curr += 1
+        print(num, end=" ")
+        num += 1
     print("")
