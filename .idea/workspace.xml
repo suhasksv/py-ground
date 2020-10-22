@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7aeacb0d-79f8-49a8-995b-202ce041b27e" name="Default Changelist" comment="Update">
-      <change afterPath="$PROJECT_DIR$/CodeCrakers/number-pyramid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-search.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -181,7 +181,9 @@
       <workItem from="1603017300085" duration="686000" />
       <workItem from="1603079551780" duration="610000" />
       <workItem from="1603258317103" duration="821000" />
-      <workItem from="1603273919772" duration="1746000" />
+      <workItem from="1603273919772" duration="2409000" />
+      <workItem from="1603341035490" duration="623000" />
+      <workItem from="1603363433453" duration="348000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1602900593133</created>
@@ -190,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602900593133</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="number-pyramid">
+      <created>1603278785256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603278785256</updated>
+    </task>
+    <task id="LOCAL-00003" summary=".idea update">
+      <created>1603278808861</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603278808861</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,45 +226,47 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="number-pyramid" />
+    <MESSAGE value=".idea update" />
+    <option name="LAST_COMMIT_MESSAGE" value=".idea update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602339021945">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1602339021945" />
-    <state width="1398" height="206" key="GridCell.Tab.0.bottom" timestamp="1603278537086">
+    <state width="1398" height="280" key="GridCell.Tab.0.bottom" timestamp="1603279362499">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1603278537086" />
-    <state width="1398" height="206" key="GridCell.Tab.0.center" timestamp="1603278537086">
+    <state width="1398" height="280" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1603279362499" />
+    <state width="1398" height="280" key="GridCell.Tab.0.center" timestamp="1603279362499">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="206" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1603278537086" />
-    <state width="1398" height="206" key="GridCell.Tab.0.left" timestamp="1603278537085">
+    <state width="1398" height="280" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1603279362499" />
+    <state width="1398" height="280" key="GridCell.Tab.0.left" timestamp="1603279362498">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="206" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1603278537085" />
-    <state width="1398" height="206" key="GridCell.Tab.0.right" timestamp="1603278537086">
+    <state width="1398" height="280" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1603279362498" />
+    <state width="1398" height="280" key="GridCell.Tab.0.right" timestamp="1603279362499">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="206" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1603278537086" />
-    <state width="1398" height="280" key="GridCell.Tab.1.bottom" timestamp="1603277925748">
+    <state width="1398" height="280" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1603279362499" />
+    <state width="1398" height="280" key="GridCell.Tab.1.bottom" timestamp="1603279362500">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1603277925748" />
-    <state width="1398" height="280" key="GridCell.Tab.1.center" timestamp="1603277925747">
+    <state width="1398" height="280" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1603279362500" />
+    <state width="1398" height="280" key="GridCell.Tab.1.center" timestamp="1603279362500">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1603277925747" />
-    <state width="1398" height="280" key="GridCell.Tab.1.left" timestamp="1603277925747">
+    <state width="1398" height="280" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1603279362500" />
+    <state width="1398" height="280" key="GridCell.Tab.1.left" timestamp="1603279362500">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1603277925747" />
-    <state width="1398" height="280" key="GridCell.Tab.1.right" timestamp="1603277925748">
+    <state width="1398" height="280" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1603279362500" />
+    <state width="1398" height="280" key="GridCell.Tab.1.right" timestamp="1603279362500">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1603277925748" />
+    <state width="1398" height="280" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1603279362500" />
     <state x="308" y="208" width="824" height="514" key="IDE.errors.dialog" timestamp="1602903580497">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -265,6 +283,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1602900605799" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1603359108385">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1603359108385" />
     <state x="517" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602857996762">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -277,9 +299,5 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="450" y="376" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.877@0.23.1440.877" timestamp="1603017416524" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/py_ground$number_pyramid.coverage" NAME="number-pyramid Coverage Results" MODIFIED="1603278537079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCrakers" />
-    <SUITE FILE_PATH="coverage/py_ground$housie_game_no.coverage" NAME="housie-game-no Coverage Results" MODIFIED="1603017579911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
