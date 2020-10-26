@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7aeacb0d-79f8-49a8-995b-202ce041b27e" name="Default Changelist" comment="Update" />
+    <list default="true" id="7aeacb0d-79f8-49a8-995b-202ce041b27e" name="Default Changelist" comment="Update">
+      <change afterPath="$PROJECT_DIR$/CodeCrakers/number-pyramid2-factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeCrakers/number-pyramid3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeCrakers/number-pyramid1-factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/number-pyramid1-factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeCrakers/number-pyramid1.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/number-pyramid1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -281,10 +287,11 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1602900605799" />
-    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1603417246994">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="417" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1603609501646">
+      <screen x="28" y="23" width="1412" height="877" />
     </state>
     <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1603417246994" />
+    <state x="417" y="294" key="com.intellij.ide.util.TipDialog/28.23.1412.877@28.23.1412.877" timestamp="1603609501646" />
     <state x="517" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602857996762">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
