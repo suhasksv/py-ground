@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7aeacb0d-79f8-49a8-995b-202ce041b27e" name="Default Changelist" comment="Update">
-      <change afterPath="$PROJECT_DIR$/CodeCrakers/number-pyramid2-factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeCrakers/number-pyramid3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeCrakers/print-lowest-in-list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeCrakers/number-pyramid1-factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/number-pyramid1-factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeCrakers/number-pyramid1.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/number-pyramid1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +41,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.number-pyramid">
+  <component name="RunManager" selected="Python.print-lowest-in-list">
     <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py-ground" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,6 +122,27 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeCrakers/palindrome_chk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="print-lowest-in-list" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="py-ground" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/Cellar/python/3.7.0/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeCrakers" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeCrakers/print-lowest-in-list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,38 +257,42 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1602339021945" />
-    <state width="1398" height="280" key="GridCell.Tab.0.bottom" timestamp="1603279362499">
+    <state x="415" y="65" key="#print-lowest-in-list" timestamp="1603967873242">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1603279362499" />
-    <state width="1398" height="280" key="GridCell.Tab.0.center" timestamp="1603279362499">
+    <state x="415" y="65" key="#print-lowest-in-list/0.23.1440.877@0.23.1440.877" timestamp="1603967873242" />
+    <state width="1398" height="285" key="GridCell.Tab.0.bottom" timestamp="1603968467766">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1603279362499" />
-    <state width="1398" height="280" key="GridCell.Tab.0.left" timestamp="1603279362498">
+    <state width="1398" height="285" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1603968467766" />
+    <state width="1398" height="285" key="GridCell.Tab.0.center" timestamp="1603968467766">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1603279362498" />
-    <state width="1398" height="280" key="GridCell.Tab.0.right" timestamp="1603279362499">
+    <state width="1398" height="285" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1603968467766" />
+    <state width="1398" height="285" key="GridCell.Tab.0.left" timestamp="1603968467765">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1603279362499" />
-    <state width="1398" height="280" key="GridCell.Tab.1.bottom" timestamp="1603279362500">
+    <state width="1398" height="285" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1603968467765" />
+    <state width="1398" height="285" key="GridCell.Tab.0.right" timestamp="1603968467766">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1603279362500" />
-    <state width="1398" height="280" key="GridCell.Tab.1.center" timestamp="1603279362500">
+    <state width="1398" height="285" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1603968467766" />
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom" timestamp="1603968467768">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1603279362500" />
-    <state width="1398" height="280" key="GridCell.Tab.1.left" timestamp="1603279362500">
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1603968467768" />
+    <state width="1398" height="285" key="GridCell.Tab.1.center" timestamp="1603968467767">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1603279362500" />
-    <state width="1398" height="280" key="GridCell.Tab.1.right" timestamp="1603279362500">
+    <state width="1398" height="285" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1603968467767" />
+    <state width="1398" height="285" key="GridCell.Tab.1.left" timestamp="1603968467767">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="280" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1603279362500" />
+    <state width="1398" height="285" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1603968467767" />
+    <state width="1398" height="285" key="GridCell.Tab.1.right" timestamp="1603968467767">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1603968467767" />
     <state x="308" y="208" width="824" height="514" key="IDE.errors.dialog" timestamp="1602903580497">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -287,10 +309,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1602900605799" />
-    <state x="417" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1603609501646">
-      <screen x="28" y="23" width="1412" height="877" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1604398686842">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1603417246994" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1604398686842" />
     <state x="417" y="294" key="com.intellij.ide.util.TipDialog/28.23.1412.877@28.23.1412.877" timestamp="1603609501646" />
     <state x="517" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602857996762">
       <screen x="0" y="23" width="1440" height="877" />
@@ -300,9 +322,54 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="430" y="154" width="580" height="614" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1602949310087" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1603968157098">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1603968157098" />
     <state x="450" y="376" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1603017416524">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="450" y="376" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.877@0.23.1440.877" timestamp="1603017416524" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CodeCrakers/print-lowest-in-list.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CodeCrakers/print-lowest-in-list.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CodeCrakers/print-lowest-in-list.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CodeCrakers/print-lowest-in-list.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CodeCrakers/print-lowest-in-list.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CodeCrakers/print-lowest-in-list.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CodeCrakers/print-lowest-in-list.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
