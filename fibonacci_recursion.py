@@ -1,6 +1,8 @@
-def febonacc():
+def febonacc(n):
+	if n == 1:
+		return 1
 
-	
+
 try:
 	n = int(input("Enter an integer:"))
 except:
