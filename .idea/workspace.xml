@@ -19,21 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7aeacb0d-79f8-49a8-995b-202ce041b27e" name="Default Changelist" comment="Update">
-      <change afterPath="$PROJECT_DIR$/CodeCrakers/housie-game-no.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeCrakers/login-method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/techgig/avg-score.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/techgig/highest-score.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeCrakers/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeCrakers/list-sum-2020.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/list-sum-2020.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeCrakers/tic-tac-toe.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/tic-tac-toe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/housie-game-no.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ninelives.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/ninelives.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/password-picker.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/password-picker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robbuilder.py" beforeDir="false" afterPath="$PROJECT_DIR$/TurtleGraphics/robbuilder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ten.py" beforeDir="false" afterPath="$PROJECT_DIR$/ten.py" afterDir="false" />
-    </list>
+    <list default="true" id="7aeacb0d-79f8-49a8-995b-202ce041b27e" name="Default Changelist" comment="Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -360,6 +346,7 @@
       <workItem from="1607506342757" duration="2541000" />
       <workItem from="1607679920841" duration="1949000" />
       <workItem from="1607702309971" duration="2255000" />
+      <workItem from="1608024611295" duration="294000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1602900593133</created>
