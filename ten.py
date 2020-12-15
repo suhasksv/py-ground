@@ -1,9 +1,12 @@
-Is_dark = input ("Is it daek outside?(y/n)")
+"""
+# Simple if.. statement
+Is_dark = input("Is it dark outside?(y/n)")
 if Is_dark == "y":
-    print ("Goodnight!! ZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzz.......")
+    print("Goodnight!! ZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzz.......")
+"""
 
 tentecles = input ("Do you have tentacles(y/n)")
 if tentecles == "y":
-    print ("You arte an octopus !! Inever know that octopus could type.")
+    print("You arte an octopus !! Inever know that octopus could type.")
 else:
-    print ("Namaste, you are a human")
+    print("Namaste, you are a human")
