@@ -1,11 +1,11 @@
 import time
-import os
 import random
 
 usernames = []
-passwds = []
+passwords = []
 assigned_salt = []
 user_salt = {}
+
 
 def creating_user():
     # Getting username and appending it to 'usernames' list
@@ -14,7 +14,8 @@ def creating_user():
 
     # Getting password and appending it to 'passwds' list
     passwd = input("Enter your password:")
-    passwds.append(passwd)
+    passwords.append(passwd)
+
 
 # Assigning salt to username and password
 def salt_assign(passwd, username):
@@ -22,7 +23,6 @@ def salt_assign(passwd, username):
     s = str(salt) + passwd
     user_salt[username] = salt
     return s
-
 
 # def get_salt_user(username):
 #     if username in usernames:
