@@ -7,6 +7,7 @@ def rectangle(horizontal, verticle, color):
 """
 
 import turtle as t
+import time
 
 
 def rectangle(horizontal, vertical, color):
@@ -23,3 +24,4 @@ def rectangle(horizontal, vertical, color):
 
 t.end_fill()
 t.pendown()
+time.sleep(3.0)

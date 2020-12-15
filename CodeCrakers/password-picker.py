@@ -2,19 +2,20 @@ import random
 import string
 
 adj = ("sleepy", "beautiful", "white", "purple", "blue", "green", "brave",)
-noun = ("apple", "sony", "mediaTek", "snapdragon", "beetal", "bee", "sg", "ss")
+noun = ("apple", "sony", "mediaTek", "snapdragon", "beetle", "bee", "sg", "ss")
 
 print("Welcome to password picker")
 while True:
+    num: int
     for num in range(1):
-        adjs = random.choice(adj)
+        adjectives = random.choice(adj)
         nouns = random.choice(noun)
         num = random.randrange(0, 100)
         spe_char = random.choice(string.punctuation)
 
-        password = adjs + nouns + str(num) + spe_char
+        password = adjectives + nouns + str(num) + spe_char
         print("Your new password is: %s" % password)
 
-    a = input("Do you want to create another password?(y/n):")
+    a = input("Do you want to create another password? Enter 'Y' to continue....::").lower()
     if a == "n":
         break

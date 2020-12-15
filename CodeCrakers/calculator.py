@@ -86,7 +86,7 @@ ops = {"+": add, "add": add, "addition": add, "sum": add, "-": sub, "sub": sub, 
 while True:
     op = input("Enter operation:")  # Takes input from the costumer and stores in variable op
 
-    if op.lower() in ops:
+    if op in ops:
         try:
             num2 = float(input("Enter an integer:"))
             answer = eval("ops[op](num1, num2)")
