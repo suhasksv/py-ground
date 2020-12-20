@@ -3,7 +3,7 @@ import time
 
 print("Welcome to Quantum Tricks Accounts")
 time.sleep(1.5)
-print("For more infomation visit https://accounts.quantumtricks.in/user_support/index.html")
+print("For more information visit https://accounts.quantumtricks.in/user_support/index.html")
 time.sleep(2.0)
 print("Let's get started")
 time.sleep(1.0)
@@ -98,6 +98,8 @@ def ask_sign():
         creating_user_sign_up()
     elif ask == "signin" or ask == "sign in":
         print(user_sign_in())
+        ask_sign()
+    else:
         ask_sign()
 
 
