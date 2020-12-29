@@ -9,7 +9,7 @@ print("Let's get started")
 time.sleep(1.0)
 
 usernames = [""]
-passwords = [""]
+# passwords = [""]
 passwds = {"": ""}
 assigned_salt = [""]
 user_salt = {"": ""}
@@ -26,7 +26,7 @@ def creating_user_sign_up():
 
             # Getting password and appending it to 'passwds' list
             passwd = input("Enter your password:")
-            passwords.append(passwd)
+            # passwords.append(passwd)
             while True:
                 re_passwd = input("Re-enter password:")
                 if passwd == re_passwd:
@@ -51,7 +51,7 @@ def salt_assign(passwd, username):
             s = str(salt) + passwd
             assigned_salt.append(salt)
             user_salt[username] = salt
-            passwords.append(s)
+            # passwords.append(s)
             passwds[username] = s
         break
 
@@ -104,3 +104,7 @@ def ask_sign():
 
 
 ask_sign()
+
+"""
+About 
+"""

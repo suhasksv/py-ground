@@ -11,7 +11,7 @@ def find(numb):
         if ask in numb:
             print("{} has been drawn".format(ask))
         else:
-            print("{} is not drawn".format(ask))
+            print("{} is not yet drawn\nPlease wait patiently".format(ask))
 
         ques = input("Do you want to find another number? Type 'y' to find...... : ").lower()
         if ques == "y":
