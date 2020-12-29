@@ -20,7 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7aeacb0d-79f8-49a8-995b-202ce041b27e" name="Default Changelist" comment="Update">
+      <change afterPath="$PROJECT_DIR$/CodeCrakers/login-method-adv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multiply-table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replacing-domains.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sum-of-positive-int-recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syn_py.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeCrakers/.login-method.py.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeCrakers/housie-game-no.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/housie-game-no.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeCrakers/login-method.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/login-method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/age.py" beforeDir="false" afterPath="$PROJECT_DIR$/age.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/finding-no-digits.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +70,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Python.login-method">
+  <component name="RunManager" selected="Python.login-method-adv">
     <configuration name="avg-score" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py-ground" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,6 +129,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeCrakers/housie-game-no.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="login-method-adv" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="py-ground" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeCrakers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeCrakers/login-method-adv.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -357,6 +389,14 @@
       <workItem from="1608278994498" duration="1311000" />
       <workItem from="1608381424918" duration="245000" />
       <workItem from="1608468328739" duration="1883000" />
+      <workItem from="1608524023083" duration="94000" />
+      <workItem from="1608979584363" duration="1233000" />
+      <workItem from="1608988338704" duration="295000" />
+      <workItem from="1609002555587" duration="219000" />
+      <workItem from="1609215859215" duration="417000" />
+      <workItem from="1609220206041" duration="1575000" />
+      <workItem from="1609232632736" duration="2381000" />
+      <workItem from="1609235175960" duration="955000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1602900593133</created>
@@ -428,54 +468,54 @@
       <screen x="28" y="23" width="1412" height="877" />
     </state>
     <state x="128" y="123" width="1212" height="677" key="DiffContextDialog/28.23.1412.877@28.23.1412.877" timestamp="1608470212697" />
-    <state width="1370" height="386" key="GridCell.Tab.0.bottom" timestamp="1608470229985">
+    <state width="1370" height="206" key="GridCell.Tab.0.bottom" timestamp="1609221812204">
       <screen x="28" y="23" width="1412" height="877" />
     </state>
     <state width="1398" height="280" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1607510066829" />
     <state width="1370" height="206" key="GridCell.Tab.0.bottom/26.23.1414.877@26.23.1414.877" timestamp="1607272302168" />
     <state width="1370" height="206" key="GridCell.Tab.0.bottom/27.23.1413.877@27.23.1413.877" timestamp="1607243924409" />
-    <state width="1370" height="386" key="GridCell.Tab.0.bottom/28.23.1412.877@28.23.1412.877" timestamp="1608470229985" />
-    <state width="1370" height="386" key="GridCell.Tab.0.center" timestamp="1608470229955">
+    <state width="1370" height="206" key="GridCell.Tab.0.bottom/28.23.1412.877@28.23.1412.877" timestamp="1609221812204" />
+    <state width="1370" height="206" key="GridCell.Tab.0.center" timestamp="1609221812179">
       <screen x="28" y="23" width="1412" height="877" />
     </state>
     <state width="1398" height="280" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1607510066827" />
     <state width="1370" height="206" key="GridCell.Tab.0.center/26.23.1414.877@26.23.1414.877" timestamp="1607272302168" />
     <state width="1370" height="206" key="GridCell.Tab.0.center/27.23.1413.877@27.23.1413.877" timestamp="1607243924409" />
-    <state width="1370" height="386" key="GridCell.Tab.0.center/28.23.1412.877@28.23.1412.877" timestamp="1608470229955" />
-    <state width="1370" height="386" key="GridCell.Tab.0.left" timestamp="1608470229954">
+    <state width="1370" height="206" key="GridCell.Tab.0.center/28.23.1412.877@28.23.1412.877" timestamp="1609221812179" />
+    <state width="1370" height="206" key="GridCell.Tab.0.left" timestamp="1609221812177">
       <screen x="28" y="23" width="1412" height="877" />
     </state>
     <state width="1398" height="280" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1607510066826" />
     <state width="1370" height="206" key="GridCell.Tab.0.left/26.23.1414.877@26.23.1414.877" timestamp="1607272302167" />
     <state width="1370" height="206" key="GridCell.Tab.0.left/27.23.1413.877@27.23.1413.877" timestamp="1607243924408" />
-    <state width="1370" height="386" key="GridCell.Tab.0.left/28.23.1412.877@28.23.1412.877" timestamp="1608470229954" />
-    <state width="1370" height="386" key="GridCell.Tab.0.right" timestamp="1608470229957">
+    <state width="1370" height="206" key="GridCell.Tab.0.left/28.23.1412.877@28.23.1412.877" timestamp="1609221812177" />
+    <state width="1370" height="206" key="GridCell.Tab.0.right" timestamp="1609221812203">
       <screen x="28" y="23" width="1412" height="877" />
     </state>
     <state width="1398" height="280" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1607510066828" />
     <state width="1370" height="206" key="GridCell.Tab.0.right/26.23.1414.877@26.23.1414.877" timestamp="1607272302168" />
     <state width="1370" height="206" key="GridCell.Tab.0.right/27.23.1413.877@27.23.1413.877" timestamp="1607243924409" />
-    <state width="1370" height="386" key="GridCell.Tab.0.right/28.23.1412.877@28.23.1412.877" timestamp="1608470229957" />
-    <state width="1370" height="386" key="GridCell.Tab.1.bottom" timestamp="1608470229987">
+    <state width="1370" height="206" key="GridCell.Tab.0.right/28.23.1412.877@28.23.1412.877" timestamp="1609221812203" />
+    <state width="1370" height="386" key="GridCell.Tab.1.bottom" timestamp="1609216276530">
       <screen x="28" y="23" width="1412" height="877" />
     </state>
     <state width="1398" height="280" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1607510066830" />
-    <state width="1370" height="386" key="GridCell.Tab.1.bottom/28.23.1412.877@28.23.1412.877" timestamp="1608470229987" />
-    <state width="1370" height="386" key="GridCell.Tab.1.center" timestamp="1608470229986">
+    <state width="1370" height="386" key="GridCell.Tab.1.bottom/28.23.1412.877@28.23.1412.877" timestamp="1609216276530" />
+    <state width="1370" height="386" key="GridCell.Tab.1.center" timestamp="1609216276529">
       <screen x="28" y="23" width="1412" height="877" />
     </state>
     <state width="1398" height="280" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1607510066830" />
-    <state width="1370" height="386" key="GridCell.Tab.1.center/28.23.1412.877@28.23.1412.877" timestamp="1608470229986" />
-    <state width="1370" height="386" key="GridCell.Tab.1.left" timestamp="1608470229985">
+    <state width="1370" height="386" key="GridCell.Tab.1.center/28.23.1412.877@28.23.1412.877" timestamp="1609216276529" />
+    <state width="1370" height="386" key="GridCell.Tab.1.left" timestamp="1609216276528">
       <screen x="28" y="23" width="1412" height="877" />
     </state>
     <state width="1398" height="280" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1607510066829" />
-    <state width="1370" height="386" key="GridCell.Tab.1.left/28.23.1412.877@28.23.1412.877" timestamp="1608470229985" />
-    <state width="1370" height="386" key="GridCell.Tab.1.right" timestamp="1608470229987">
+    <state width="1370" height="386" key="GridCell.Tab.1.left/28.23.1412.877@28.23.1412.877" timestamp="1609216276528" />
+    <state width="1370" height="386" key="GridCell.Tab.1.right" timestamp="1609216276530">
       <screen x="28" y="23" width="1412" height="877" />
     </state>
     <state width="1398" height="280" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1607510066830" />
-    <state width="1370" height="386" key="GridCell.Tab.1.right/28.23.1412.877@28.23.1412.877" timestamp="1608470229987" />
+    <state width="1370" height="386" key="GridCell.Tab.1.right/28.23.1412.877@28.23.1412.877" timestamp="1609216276530" />
     <state x="308" y="208" width="824" height="514" key="IDE.errors.dialog" timestamp="1602903580497">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -498,10 +538,15 @@
     </state>
     <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1604398686842" />
     <state x="417" y="294" key="com.intellij.ide.util.TipDialog/28.23.1412.877@28.23.1412.877" timestamp="1603609501646" />
-    <state x="517" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602857996762">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="361" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1609233829964">
+      <screen x="28" y="23" width="1412" height="877" />
+    </state>
+    <state x="361" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/28.23.1412.877@28.23.1412.877" timestamp="1609233829964" />
+    <state x="535" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609221648620">
+      <screen x="28" y="23" width="1412" height="877" />
     </state>
     <state x="517" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1602857996762" />
+    <state x="535" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/28.23.1412.877@28.23.1412.877" timestamp="1609221648620" />
     <state x="430" y="154" width="580" height="614" key="find.popup" timestamp="1602949310087">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -800,7 +845,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/py_ground$list_sum_2020.coverage" NAME="list-sum-2020 Coverage Results" MODIFIED="1607243924395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCrakers" />
-    <SUITE FILE_PATH="coverage/py_ground$login_method.coverage" NAME="login-method Coverage Results" MODIFIED="1608468891313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCrakers" />
+    <SUITE FILE_PATH="coverage/py_ground$login_method.coverage" NAME="login-method Coverage Results" MODIFIED="1609216212302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCrakers" />
     <SUITE FILE_PATH="coverage/py_ground$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1607271678057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCrakers" />
     <SUITE FILE_PATH="coverage/py_ground$tic_tac_toe.coverage" NAME="tic-tac-toe Coverage Results" MODIFIED="1607272033725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCrakers" />
     <SUITE FILE_PATH="coverage/py_ground$robbuilder.coverage" NAME="robbuilder Coverage Results" MODIFIED="1607435397723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TurtleGraphics" />
@@ -811,6 +856,7 @@
     <SUITE FILE_PATH="coverage/py_ground$number_pyramid1.coverage" NAME="number-pyramid1 Coverage Results" MODIFIED="1606184855950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCrakers" />
     <SUITE FILE_PATH="coverage/py_ground$fibonacci_sequence.coverage" NAME="fibonacci_sequence Coverage Results" MODIFIED="1606029491252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_ground$number_pyramid2.coverage" NAME="number-pyramid2 Coverage Results" MODIFIED="1606184384560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCrakers" />
+    <SUITE FILE_PATH="coverage/py_ground$login_method_adv.coverage" NAME="login-method-adv Coverage Results" MODIFIED="1609220598201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCrakers" />
     <SUITE FILE_PATH="coverage/py_ground$avg_score.coverage" NAME="avg-score Coverage Results" MODIFIED="1607681795924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/techgig" />
   </component>
 </project>
