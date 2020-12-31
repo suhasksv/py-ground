@@ -8,24 +8,20 @@ friend = ["Python", "Go", "HTML5", "Java", "C", "C++"]
 greet(friend)
 print("\n")
 
+def price(price):
+    tax = (price * 0.06)
+    final = tax + price
+    return "The price without tax is ${:.2f}, tax is ${:.2f} and final price with tax is {:.2f}".format(price, tax, final)
 
-# finding short forms of a string
-def initials(phrase):
-    words = phrase.split()
-    result = ""
-    for word in words:
-        result += word[0]
-    return result.upper()
+x = 1
+while x == 1:
+	try:
+		prices = float(input("Enter the price of the item :"))
+		print(price(prices))
+	except:
+		print("Please enter an integer or decimal value")
+		continue
 
-
-# print(initials("Universal Serial Bus"))  # Should be: USB
-# print(initials("local area network"))  # Should be: LAN
-# print(initials("Operating system"))  # Should be: OS
-w = 1
-while w == 1:
-    ask = input("Enter a string to convert it to short form :")
-    print(initials(ask))
-
-    ask_new = input("Type 'y' to convert another string :").lower()
-    if ask_new != "y":
-        w += 1
+	ask = input("Do you want to find total price and tax? Enter 'y' to continue...! :").lower()
+	if ask != 'y':
+		x += 1

@@ -20,17 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7aeacb0d-79f8-49a8-995b-202ce041b27e" name="Default Changelist" comment="Update">
-      <change afterPath="$PROJECT_DIR$/CodeCrakers/login-method-adv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiply-table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/replacing-domains.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sum-of-positive-int-recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/syn_py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeCrakers/create-abbreviation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeCrakers/.login-method.py.swp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeCrakers/housie-game-no.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/housie-game-no.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeCrakers/login-method.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/login-method.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/age.py" beforeDir="false" afterPath="$PROJECT_DIR$/age.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/finding-no-digits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/syn_py.py" beforeDir="false" afterPath="$PROJECT_DIR$/syn_py.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -397,6 +389,7 @@
       <workItem from="1609220206041" duration="1575000" />
       <workItem from="1609232632736" duration="2381000" />
       <workItem from="1609235175960" duration="955000" />
+      <workItem from="1609305809335" duration="675000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1602900593133</created>
@@ -538,9 +531,10 @@
     </state>
     <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1604398686842" />
     <state x="417" y="294" key="com.intellij.ide.util.TipDialog/28.23.1412.877@28.23.1412.877" timestamp="1603609501646" />
-    <state x="361" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1609233829964">
-      <screen x="28" y="23" width="1412" height="877" />
+    <state x="360" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1609307500683">
+      <screen x="27" y="23" width="1413" height="877" />
     </state>
+    <state x="360" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/27.23.1413.877@27.23.1413.877" timestamp="1609307500683" />
     <state x="361" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/28.23.1412.877@28.23.1412.877" timestamp="1609233829964" />
     <state x="535" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609221648620">
       <screen x="28" y="23" width="1412" height="877" />
