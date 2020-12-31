@@ -24,4 +24,3 @@ while x == 1:
 #     g = g + c
 #     print(i, c)
 # print("The sum is: ", g)
-`
