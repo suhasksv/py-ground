@@ -1,5 +1,6 @@
 import random
 import time
+import getpass
 
 print("Welcome to Quantum Tricks Accounts")
 time.sleep(1.5)
@@ -8,11 +9,19 @@ time.sleep(2.0)
 print("Let's get started")
 time.sleep(1.0)
 
+"""
 usernames = [""]
 # passwords = [""]
 passwds = {"": ""}
 assigned_salt = [""]
 user_salt = {"": ""}
+"""
+
+usernames = []
+# passwords = []
+passwds = {}
+assigned_salt = []
+user_salt = {}
 
 
 # Creating a user
@@ -25,10 +34,10 @@ def creating_user_sign_up():
             usernames.append(username)
 
             # Getting password and appending it to 'passwds' list
-            passwd = input("Enter your password:")
+            passwd = getpass.getpass("Enter your password:")
             # passwords.append(passwd)
             while True:
-                re_passwd = input("Re-enter password:")
+                re_passwd = getpass.getpass("Re-enter your password:")
                 if passwd == re_passwd:
                     # print("Your password is saved successfully...!")
                     print("Congratulations your Quantum Tricks Account has been created successfully")
@@ -70,7 +79,7 @@ def encrypt_passwd(salt, passwd):
 
 # Checking encrypted password with entered password
 def password_chk(username):
-    ask_passwd = input("Enter your password:")
+    ask_passwd = getpass.getpass("Enter your password:")
     salt = finding_salt_of_user(username)
     passwd = encrypt_passwd(salt, ask_passwd)
     passw = passwds[username]

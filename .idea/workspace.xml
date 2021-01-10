@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7aeacb0d-79f8-49a8-995b-202ce041b27e" name="Default Changelist" comment="Update">
-      <change afterPath="$PROJECT_DIR$/python-gui/Tkinter/button_tk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-gui/Tkinter/buttons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-gui/Tkinter/create-window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-gui/Tkinter/input_tk.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeCrakers/palindrome_chk.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/palindrome_chk.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/push.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeCrakers/login-method-adv.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/login-method-adv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeCrakers/login-method.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/login-method.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -424,6 +420,11 @@
       <workItem from="1609493697039" duration="635000" />
       <workItem from="1609509014921" duration="2309000" />
       <workItem from="1609562708286" duration="590000" />
+      <workItem from="1609742654318" duration="88000" />
+      <workItem from="1609837839718" duration="271000" />
+      <workItem from="1609999533064" duration="515000" />
+      <workItem from="1610106938455" duration="1814000" />
+      <workItem from="1610176737901" duration="45000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1602900593133</created>
@@ -644,212 +645,212 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>18</line>
+          <line>27</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>29</line>
+          <line>38</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>10</line>
+          <line>12</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>11</line>
+          <line>13</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>12</line>
+          <line>14</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>13</line>
+          <line>15</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>14</line>
+          <line>16</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>46</line>
+          <line>55</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>48</line>
+          <line>57</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>59</line>
+          <line>68</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>65</line>
+          <line>74</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>71</line>
+          <line>80</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>66</line>
+          <line>75</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>67</line>
+          <line>76</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>73</line>
+          <line>82</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>72</line>
+          <line>81</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>74</line>
+          <line>83</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>82</line>
+          <line>91</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>105</line>
+          <line>114</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>50</line>
+          <line>59</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>51</line>
+          <line>60</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>52</line>
+          <line>61</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>54</line>
+          <line>63</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>53</line>
+          <line>62</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>76</line>
+          <line>85</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>75</line>
+          <line>84</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>77</line>
+          <line>86</line>
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>78</line>
+          <line>87</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>84</line>
+          <line>93</line>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>85</line>
+          <line>94</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>87</line>
+          <line>96</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>86</line>
+          <line>95</line>
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>88</line>
+          <line>97</line>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>89</line>
+          <line>98</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>91</line>
+          <line>100</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>90</line>
+          <line>99</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>94</line>
+          <line>103</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>95</line>
+          <line>104</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>96</line>
+          <line>105</line>
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>97</line>
+          <line>106</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>99</line>
+          <line>108</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>98</line>
+          <line>107</line>
           <option name="timeStamp" value="55" />
         </line-breakpoint>
       </breakpoints>
