@@ -1,20 +1,20 @@
-plang = {"Python": 1, "Java": 2, "Go": 3, "Kotlin": 4}
-print(plang)
+lang = {"Python": 1, "Java": 2, "Go": 3, "Kotlin": 4}
+print(lang)
 
-for i in plang:
+for i in lang:
     print(i)
 
-print(plang["Kotlin"])
+print(lang["Kotlin"])
 
-del plang["Java"]
-print(plang)
+del lang["Java"]
+print(lang)
 
-plang["Go"] = 2
-plang["Kotlin"] = 3
+lang["Go"] = 2
+lang["Kotlin"] = 3
 
-print(plang)
+print(lang)
 
-for i in plang:
+for i in lang:
     print(i)
 
 fruits = {"Apples": 20, "Bananas": 40, "Mangoes": 50, "cherries": 100}

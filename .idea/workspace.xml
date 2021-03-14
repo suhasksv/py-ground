@@ -21,8 +21,13 @@
   <component name="ChangeListManager">
     <list default="true" id="7aeacb0d-79f8-49a8-995b-202ce041b27e" name="Default Changelist" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeCrakers/login-method-adv.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/login-method-adv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeCrakers/login-method.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/login-method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factorial_recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/factorial_recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/func.py" beforeDir="false" afterPath="$PROJECT_DIR$/func.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geee.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geee2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/techgig/highest-score.py" beforeDir="false" afterPath="$PROJECT_DIR$/techgig/highest-score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web.py" beforeDir="false" afterPath="$PROJECT_DIR$/web.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +65,8 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -425,6 +431,26 @@
       <workItem from="1609999533064" duration="515000" />
       <workItem from="1610106938455" duration="1814000" />
       <workItem from="1610176737901" duration="45000" />
+      <workItem from="1610447843389" duration="1022000" />
+      <workItem from="1610513988478" duration="41000" />
+      <workItem from="1611048409329" duration="708000" />
+      <workItem from="1611104151759" duration="979000" />
+      <workItem from="1611131690861" duration="566000" />
+      <workItem from="1611555134594" duration="2000" />
+      <workItem from="1613808958544" duration="620000" />
+      <workItem from="1614342402066" duration="15000" />
+      <workItem from="1614874332765" duration="66000" />
+      <workItem from="1614874412022" duration="164000" />
+      <workItem from="1614874748843" duration="3000" />
+      <workItem from="1614875980842" duration="9000" />
+      <workItem from="1614876212607" duration="155000" />
+      <workItem from="1614922298650" duration="692000" />
+      <workItem from="1614961051510" duration="324000" />
+      <workItem from="1615090833143" duration="108000" />
+      <workItem from="1615286066193" duration="4000" />
+      <workItem from="1615286083178" duration="4000" />
+      <workItem from="1615286140511" duration="3000" />
+      <workItem from="1615287242244" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1602900593133</created>
@@ -472,9 +498,14 @@
     <option name="LAST_COMMIT_MESSAGE" value=".idea update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="334" y="109" key="#Plugins" timestamp="1607238350858">
-      <screen x="27" y="23" width="1413" height="877" />
+    <state x="431" y="288" key="#Notifications" timestamp="1614922559785">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state x="431" y="288" key="#Notifications/0.23.1440.877@0.23.1440.877" timestamp="1614922559785" />
+    <state x="313" y="109" key="#Plugins" timestamp="1614874422447">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="313" y="109" key="#Plugins/0.23.1440.877@0.23.1440.877" timestamp="1614874422447" />
     <state x="334" y="109" key="#Plugins/27.23.1413.877@27.23.1413.877" timestamp="1607238350858" />
     <state x="334" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607436134596">
       <screen x="28" y="23" width="1412" height="877" />
@@ -484,14 +515,10 @@
       <screen x="28" y="23" width="1412" height="877" />
     </state>
     <state x="412" y="266" key="#com.intellij.fileTypes.FileTypeChooser/28.23.1412.877@28.23.1412.877" timestamp="1608470077250" />
-    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602339021945">
+    <state x="466" y="321" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1614922503320">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1602339021945" />
-    <state x="415" y="65" key="#print-lowest-in-list" timestamp="1603967873242">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="415" y="65" key="#print-lowest-in-list/0.23.1440.877@0.23.1440.877" timestamp="1603967873242" />
+    <state x="466" y="321" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.877@0.23.1440.877" timestamp="1614922503320" />
     <state x="128" y="123" width="1212" height="677" key="DiffContextDialog" timestamp="1608470212697">
       <screen x="28" y="23" width="1412" height="877" />
     </state>
@@ -544,51 +571,38 @@
     </state>
     <state width="1398" height="280" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1607510066830" />
     <state width="1370" height="386" key="GridCell.Tab.1.right/28.23.1412.877@28.23.1412.877" timestamp="1609216276530" />
-    <state x="308" y="208" width="824" height="514" key="IDE.errors.dialog" timestamp="1602903580497">
+    <state x="221" y="63" key="SettingsEditor" timestamp="1614876277458">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="308" y="208" width="824" height="514" key="IDE.errors.dialog/0.23.1440.877@0.23.1440.877" timestamp="1602903580497" />
-    <state x="221" y="63" key="SettingsEditor" timestamp="1607507161134">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1607507161134" />
+    <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1614876277458" />
     <state x="588" y="376" key="VCS.ChangelistChooser" timestamp="1607704224262">
       <screen x="28" y="23" width="1412" height="877" />
     </state>
-    <state x="571" y="376" key="VCS.ChangelistChooser/0.23.1440.877@0.23.1440.877" timestamp="1602339639930" />
     <state x="588" y="376" key="VCS.ChangelistChooser/28.23.1412.877@28.23.1412.877" timestamp="1607704224262" />
-    <state x="320" y="197" key="Vcs.Push.Dialog.v2" timestamp="1602900605799">
+    <state x="590" y="313" key="cloudConfig.SelfSettingsDialog" timestamp="1614922419812">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1602900605799" />
-    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1604398686842">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1604398686842" />
-    <state x="417" y="294" key="com.intellij.ide.util.TipDialog/28.23.1412.877@28.23.1412.877" timestamp="1603609501646" />
+    <state x="590" y="313" key="cloudConfig.SelfSettingsDialog/0.23.1440.877@0.23.1440.877" timestamp="1614922419812" />
     <state x="360" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1609307500683">
       <screen x="27" y="23" width="1413" height="877" />
     </state>
     <state x="360" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/27.23.1413.877@27.23.1413.877" timestamp="1609307500683" />
     <state x="361" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/28.23.1412.877@28.23.1412.877" timestamp="1609233829964" />
-    <state x="535" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609221648620">
-      <screen x="28" y="23" width="1412" height="877" />
+    <state x="517" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614922958082">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="517" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1602857996762" />
+    <state x="517" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1614922958082" />
     <state x="535" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/28.23.1412.877@28.23.1412.877" timestamp="1609221648620" />
-    <state x="430" y="154" width="580" height="614" key="find.popup" timestamp="1602949310087">
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1611048420653">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="430" y="154" width="580" height="614" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1602949310087" />
-    <state x="406" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1608121123358">
-      <screen x="28" y="23" width="1412" height="877" />
-    </state>
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1607507297843" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1611048420653" />
     <state x="406" y="213" width="670" height="676" key="search.everywhere.popup/28.23.1412.877@28.23.1412.877" timestamp="1608121123358" />
-    <state x="450" y="376" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1607506991672">
+    <state x="412" y="213" width="667" height="676" key="search.everywhere.popup/36.23.1404.877@36.23.1404.877" timestamp="1610447948756" />
+    <state x="450" y="376" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1615090859750">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="450" y="376" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.877@0.23.1440.877" timestamp="1607506991672" />
+    <state x="450" y="376" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.877@0.23.1440.877" timestamp="1615090859750" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -642,216 +656,6 @@
           <url>file://$PROJECT_DIR$/techgig/avg-score.py</url>
           <line>16</line>
           <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>38</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>55</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>57</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>68</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>74</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>80</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>75</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>76</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>82</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>81</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>83</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>91</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>114</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>59</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>60</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>61</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>63</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>62</line>
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>85</line>
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>84</line>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>86</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>87</line>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>93</line>
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>94</line>
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>96</line>
-          <option name="timeStamp" value="44" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>95</line>
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>97</line>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>98</line>
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>100</line>
-          <option name="timeStamp" value="48" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>99</line>
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>103</line>
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>104</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>105</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>106</line>
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>108</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeCrakers/login-method.py</url>
-          <line>107</line>
-          <option name="timeStamp" value="55" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
