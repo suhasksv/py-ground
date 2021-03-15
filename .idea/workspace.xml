@@ -21,13 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7aeacb0d-79f8-49a8-995b-202ce041b27e" name="Default Changelist" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factorial_recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/factorial_recursion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/func.py" beforeDir="false" afterPath="$PROJECT_DIR$/func.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geee.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geee2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/techgig/highest-score.py" beforeDir="false" afterPath="$PROJECT_DIR$/techgig/highest-score.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web.py" beforeDir="false" afterPath="$PROJECT_DIR$/web.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -451,6 +444,7 @@
       <workItem from="1615286083178" duration="4000" />
       <workItem from="1615286140511" duration="3000" />
       <workItem from="1615287242244" duration="14000" />
+      <workItem from="1615709431086" duration="1206000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1602900593133</created>
@@ -571,10 +565,10 @@
     </state>
     <state width="1398" height="280" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1607510066830" />
     <state width="1370" height="386" key="GridCell.Tab.1.right/28.23.1412.877@28.23.1412.877" timestamp="1609216276530" />
-    <state x="221" y="63" key="SettingsEditor" timestamp="1614876277458">
+    <state x="221" y="63" key="SettingsEditor" timestamp="1615709788010">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1614876277458" />
+    <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1615709788010" />
     <state x="588" y="376" key="VCS.ChangelistChooser" timestamp="1607704224262">
       <screen x="28" y="23" width="1412" height="877" />
     </state>
@@ -599,10 +593,10 @@
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1611048420653" />
     <state x="406" y="213" width="670" height="676" key="search.everywhere.popup/28.23.1412.877@28.23.1412.877" timestamp="1608121123358" />
     <state x="412" y="213" width="667" height="676" key="search.everywhere.popup/36.23.1404.877@36.23.1404.877" timestamp="1610447948756" />
-    <state x="450" y="376" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1615090859750">
+    <state x="450" y="376" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1615710036434">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="450" y="376" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.877@0.23.1440.877" timestamp="1615090859750" />
+    <state x="450" y="376" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.877@0.23.1440.877" timestamp="1615710036434" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
