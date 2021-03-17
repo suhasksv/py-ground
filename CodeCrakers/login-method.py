@@ -102,7 +102,7 @@ def user_sign_in():
 
 
 def ask_sign():
-    ask = input("Do you want to signup or signin? ").lower()
+    ask = input("Do you want to signup or signin? ").lower().strip()
     if ask == "signup" or ask == "sign up":
         creating_user_sign_up()
     elif ask == "signin" or ask == "sign in":
