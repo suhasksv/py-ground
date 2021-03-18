@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7aeacb0d-79f8-49a8-995b-202ce041b27e" name="Default Changelist" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeCrakers/login-method-adv.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/login-method-adv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeCrakers/login-method.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/login-method.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -453,6 +451,11 @@
       <workItem from="1615821840854" duration="2062000" />
       <workItem from="1615878268682" duration="2889000" />
       <workItem from="1615893866091" duration="351000" />
+      <workItem from="1615978842178" duration="382000" />
+      <workItem from="1615979250597" duration="283000" />
+      <workItem from="1615979584950" duration="367000" />
+      <workItem from="1615980103642" duration="5000" />
+      <workItem from="1615986839825" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1602900593133</created>
@@ -511,10 +514,11 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="431" y="288" key="#Notifications/0.23.1440.877@0.23.1440.877" timestamp="1614922559785" />
-    <state x="313" y="109" key="#Plugins" timestamp="1614874422447">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="344" y="111" key="#Plugins" timestamp="1615979273728">
+      <screen x="39" y="25" width="1401" height="875" />
     </state>
     <state x="313" y="109" key="#Plugins/0.23.1440.877@0.23.1440.877" timestamp="1614874422447" />
+    <state x="344" y="111" key="#Plugins/39.25.1401.875@39.25.1401.875" timestamp="1615979273728" />
     <state x="334" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607436134596">
       <screen x="28" y="23" width="1412" height="877" />
     </state>
@@ -523,6 +527,10 @@
       <screen x="28" y="23" width="1412" height="877" />
     </state>
     <state x="412" y="266" key="#com.intellij.fileTypes.FileTypeChooser/28.23.1412.877@28.23.1412.877" timestamp="1608470077250" />
+    <state x="426" y="202" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1615978860429">
+      <screen x="37" y="25" width="1403" height="875" />
+    </state>
+    <state x="426" y="202" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/37.25.1403.875@37.25.1403.875" timestamp="1615978860429" />
     <state x="466" y="321" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1614922503320">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -539,7 +547,6 @@
       <screen x="40" y="25" width="1400" height="875" />
     </state>
     <state width="1398" height="280" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1607510066829" />
-    <state width="1370" height="206" key="GridCell.Tab.0.bottom/26.23.1414.877@26.23.1414.877" timestamp="1607272302168" />
     <state width="1370" height="206" key="GridCell.Tab.0.bottom/27.23.1413.877@27.23.1413.877" timestamp="1609562749158" />
     <state width="1370" height="206" key="GridCell.Tab.0.bottom/28.23.1412.877@28.23.1412.877" timestamp="1609563301377" />
     <state width="1358" height="223" key="GridCell.Tab.0.bottom/40.25.1400.875@40.25.1400.875" timestamp="1615894217885" />
@@ -548,7 +555,6 @@
       <screen x="40" y="25" width="1400" height="875" />
     </state>
     <state width="1398" height="280" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1607510066827" />
-    <state width="1370" height="206" key="GridCell.Tab.0.center/26.23.1414.877@26.23.1414.877" timestamp="1607272302168" />
     <state width="1370" height="206" key="GridCell.Tab.0.center/27.23.1413.877@27.23.1413.877" timestamp="1609562749157" />
     <state width="1370" height="206" key="GridCell.Tab.0.center/28.23.1412.877@28.23.1412.877" timestamp="1609563301376" />
     <state width="1358" height="223" key="GridCell.Tab.0.center/40.25.1400.875@40.25.1400.875" timestamp="1615894217884" />
@@ -557,7 +563,6 @@
       <screen x="40" y="25" width="1400" height="875" />
     </state>
     <state width="1398" height="280" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1607510066826" />
-    <state width="1370" height="206" key="GridCell.Tab.0.left/26.23.1414.877@26.23.1414.877" timestamp="1607272302167" />
     <state width="1370" height="206" key="GridCell.Tab.0.left/27.23.1413.877@27.23.1413.877" timestamp="1609562749156" />
     <state width="1370" height="206" key="GridCell.Tab.0.left/28.23.1412.877@28.23.1412.877" timestamp="1609563301375" />
     <state width="1358" height="223" key="GridCell.Tab.0.left/40.25.1400.875@40.25.1400.875" timestamp="1615894217884" />
@@ -566,7 +571,6 @@
       <screen x="40" y="25" width="1400" height="875" />
     </state>
     <state width="1398" height="280" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1607510066828" />
-    <state width="1370" height="206" key="GridCell.Tab.0.right/26.23.1414.877@26.23.1414.877" timestamp="1607272302168" />
     <state width="1370" height="206" key="GridCell.Tab.0.right/27.23.1413.877@27.23.1413.877" timestamp="1609562749157" />
     <state width="1370" height="206" key="GridCell.Tab.0.right/28.23.1412.877@28.23.1412.877" timestamp="1609563301376" />
     <state width="1358" height="223" key="GridCell.Tab.0.right/40.25.1400.875@40.25.1400.875" timestamp="1615894217884" />
@@ -595,10 +599,11 @@
     <state width="1398" height="280" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1607510066830" />
     <state width="1370" height="386" key="GridCell.Tab.1.right/28.23.1412.877@28.23.1412.877" timestamp="1609216276530" />
     <state width="1356" height="277" key="GridCell.Tab.1.right/42.25.1398.875@42.25.1398.875" timestamp="1615821245749" />
-    <state x="257" y="65" key="SettingsEditor" timestamp="1615822033358">
-      <screen x="42" y="25" width="1398" height="875" />
+    <state x="254" y="65" key="SettingsEditor" timestamp="1615979330154">
+      <screen x="39" y="25" width="1401" height="875" />
     </state>
     <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1615709788010" />
+    <state x="254" y="65" key="SettingsEditor/39.25.1401.875@39.25.1401.875" timestamp="1615979330154" />
     <state x="257" y="65" key="SettingsEditor/42.25.1398.875@42.25.1398.875" timestamp="1615822033358" />
     <state x="588" y="376" key="VCS.ChangelistChooser" timestamp="1607704224262">
       <screen x="28" y="23" width="1412" height="877" />
