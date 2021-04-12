@@ -1,51 +1,3 @@
-import time
-
-print("Hi, Welcome to Quantum Tricks")
-time.sleep(2.0)
-
-print("This is a Infinity Python Calculator")
-time.sleep(1.0)
-
-print("Let's start calculating")
-time.sleep(1.0)
-
-try:
-    num1 = float(input("Enter an integer:"))
-except:
-    print("Invalid Input. Plz try again")
-    exit(1)
-
-
-# Calculating addition
-def add(a, b):
-    return a + b
-
-
-# Calculating subtraction
-def sub(a, b):
-    return a - b
-
-
-# Calculating multiplication
-def mul(a, b):
-    return a * b
-
-
-# Calculating division
-def div(a, b):
-    return a / b
-
-
-# Calculating exponent
-def power(a, b):
-    return a ** b
-
-
-# Calculating mod
-def mod(a, b):
-    return a % b
-
-
 # Calculating xor or exclusive or
 def xor(a, b):
     return a ^ b
@@ -103,3 +55,4 @@ while True:
     else:
         print("Sorry Operation does not exist. Please try another operation.")
         print("")
+
