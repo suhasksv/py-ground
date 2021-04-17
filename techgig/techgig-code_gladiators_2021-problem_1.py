@@ -44,16 +44,51 @@ NEGATIVE
 """
 
 
+# def main():
+#     blood_composition = []
+#
+#     virus_composition = input()
+#     no = int(input())
+#     for i in range(0, no):
+#         bl_com = input()
+#         blood_composition.append(bl_com)
+#
+#     # for j in blood_composition:
+#
+#
+# main()
+
+
+def is_prime(n):
+    for a in range(2, int(n / 2) + 1):
+        if n % a == 0:
+            return False
+    return True
+
+
 def main():
-    blood_composition = []
+    n = int(input())
+    for j in range(0, n):
+        mini, maxi = input().split()
+        mini = int(mini)
+        maxi = int(maxi)
 
-    virus_composition = input()
-    no = int(input())
-    for i in range(0, no):
-        bl_com = input()
-        blood_composition.append(bl_com)
+        k = -1
+        l = -1
 
-    # for j in blood_composition:
+        for i in range(mini, maxi + 1):
+            if is_prime(i):
+                if k < 0:
+                    k = i
+                else:
+                    l = i
+
+        if k < 0:
+            print(-1)
+        elif l < 0:
+            print(0)
+        else:
+            print(l - k)
 
 
 main()

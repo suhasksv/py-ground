@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7aeacb0d-79f8-49a8-995b-202ce041b27e" name="Default Changelist" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/techgig/techgig-code_gladiators_2021-problem_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/techgig/techgig-code_gladiators_2021-problem_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,7 @@
       <recent name="$PROJECT_DIR$/gui-tk" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.foo">
+  <component name="RunManager" selected="Python.techgig-code_gladiators_2021-problem_1">
     <configuration name="avg-score" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py-ground" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -341,9 +342,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.techgig-code_gladiators_2021-problem_1" />
         <item itemvalue="Python.foo" />
         <item itemvalue="Python.login-method" />
-        <item itemvalue="Python.techgig-code_gladiators_2021-problem_1" />
         <item itemvalue="Python.avg-score" />
         <item itemvalue="Python.password-picker" />
       </list>
@@ -477,6 +478,8 @@
       <workItem from="1618038178659" duration="171000" />
       <workItem from="1618038389025" duration="571000" />
       <workItem from="1618232152299" duration="233000" />
+      <workItem from="1618477290277" duration="1749000" />
+      <workItem from="1618506616390" duration="1111000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1602900593133</created>
@@ -583,46 +586,6 @@
           <line>16</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/Desktop/foo.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/Desktop/foo.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/Desktop/foo.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/Desktop/foo.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/Desktop/foo.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/Desktop/foo.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/Desktop/foo.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/Desktop/foo.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -649,8 +612,8 @@
     <SUITE FILE_PATH="coverage/py_ground$create_window.coverage" NAME="create-window Coverage Results" MODIFIED="1615821191036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-gui/Tkinter" />
     <SUITE FILE_PATH="coverage/py_ground$tic_tac_toe.coverage" NAME="tic-tac-toe Coverage Results" MODIFIED="1607272033725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCrakers" />
     <SUITE FILE_PATH="coverage/py_ground$login_method_adv.coverage" NAME="login-method-adv Coverage Results" MODIFIED="1609220598201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCrakers" />
-    <SUITE FILE_PATH="coverage/py_ground$techgig_code_gladiators_2021_problem_1.coverage" NAME="techgig-code_gladiators_2021-problem_1 Coverage Results" MODIFIED="1617013927313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/techgig" />
     <SUITE FILE_PATH="coverage/py_ground$module.coverage" NAME="module Coverage Results" MODIFIED="1607272273579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCrakers" />
+    <SUITE FILE_PATH="coverage/py_ground$techgig_code_gladiators_2021_problem_1.coverage" NAME="techgig-code_gladiators_2021-problem_1 Coverage Results" MODIFIED="1618478454102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/techgig" />
     <SUITE FILE_PATH="coverage/py_ground$number_pyramid1.coverage" NAME="number-pyramid1 Coverage Results" MODIFIED="1606184855950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCrakers" />
     <SUITE FILE_PATH="coverage/py_ground$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1607271678057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCrakers" />
     <SUITE FILE_PATH="coverage/py_ground$number_pyramid1_factorial.coverage" NAME="number-pyramid1-factorial Coverage Results" MODIFIED="1606185884624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCrakers" />
