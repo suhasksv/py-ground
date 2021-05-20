@@ -95,11 +95,11 @@ while True:
             num1 = answer
         except:
             print("Invalid Input. Please try again by entering a number")
-    elif op.lower() == "end" or op.lower() == "finish" or op.lower() == "break connection" or op.lower() == "break" or op.lower() == "exit" or op.lower() == "exit":
+    elif op.lower() == "end" or op.lower() == "finish" or op.lower() == "break connection" or op.lower() == "break" or op.lower() == "exit" or op.lower() == "quit":
         print("")
         print("This is your final result:", answer)
         print("Thanks for Choosing Quantum Tricks Infinity Python Calculator")
-        break
+        exit(0)
     else:
         print("Sorry Operation does not exist. Please try another operation.")
         print("")

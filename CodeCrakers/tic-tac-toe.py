@@ -21,8 +21,10 @@ def print_board(board):
     print("-- + -- + --")
     print(board["7"], " |", board["8"], "|", board["9"])
 
+
 print_board(disp_board)
 print("\n")
+
 
 # Start of the main game function
 def main_game():
