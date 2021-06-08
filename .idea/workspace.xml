@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7aeacb0d-79f8-49a8-995b-202ce041b27e" name="Default Changelist" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeCrakers/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeCrakers/tic-tac-toe.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeCrakers/tic-tac-toe.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -487,6 +485,9 @@
       <workItem from="1620646830465" duration="240000" />
       <workItem from="1620647102065" duration="31000" />
       <workItem from="1621007942329" duration="258000" />
+      <workItem from="1622201823319" duration="327000" />
+      <workItem from="1622202249658" duration="387000" />
+      <workItem from="1622456222532" duration="293000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1602900593133</created>
